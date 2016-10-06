@@ -1,6 +1,12 @@
+use test;
 
-DESC emp_info;
+create table emp_info
+(
+id int(11),
+name varchar(30),
+dob datetime,
+email varchar(40)
+);
 
-DROP TABLE emp_info;
+desc emp_info;
 
-DESC emp_info;
