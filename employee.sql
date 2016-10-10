@@ -1,7 +1,6 @@
-
-
+use test;
 insert into employee
-values (1915,'Lilee', 19, 'lilee@gmail.com', 19150.00);
+values (1916,'Lilee', 27, 'lilee@hotmail.com', 27500.00);
 
 
 select * from employee;
