@@ -14,9 +14,11 @@ upload_date date
 insert into tutorial
 
 
-values (009, 'Arrays', 'Java', 6, '2013-02-02'); 
+values (011, 'JDBC', 'Java', 9, '2013-02-02'); 
+
 
 select * from tutorial;
+
 
 
 
