@@ -14,10 +14,10 @@ upload_date date
 insert into tutorial
 
 
-values (011, 'JDBC', 'Java', 9, '2013-02-02'); 
+values (016, 'Excel-5', 'Microsoft', 6, '2013-12-11'); 
 
 
-select * from tutorial;
+
 
 
 
