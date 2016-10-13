@@ -1,0 +1,3 @@
+use test;
+
+SELECT GREATEST(5,3,1,77,9,11);

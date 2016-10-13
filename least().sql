@@ -1,0 +1,5 @@
+use test;
+
+SELECT LEAST(5,3,1,77,9,11);
+
+SELECT LEAST(11,6,3,-3,89,51);
